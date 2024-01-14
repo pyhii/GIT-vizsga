@@ -4,7 +4,7 @@
 
 body{
 
-    background-image: linear-gradient(0deg, rgb(197, 54, 54) 23.8%, rgb(118, 115, 221) 92%);
+    background-image: radial-gradient(circle, rgb(112, 230, 77) 20%, rgb(81, 205, 230) 80%);
     height: 100vh;
     display: flex;
     justify-content: center;
